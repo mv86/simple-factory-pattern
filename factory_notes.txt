@@ -1,0 +1,3 @@
+Factory Pattern - One of the most used design patterns in Java & one of the best ways to create an object.
+
+We create objects without exposing the creation logic to the client & we refer to newly created objects using a common interface(could be an abstract class). 
